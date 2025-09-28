@@ -1,0 +1,19 @@
+body{
+  background-image: url(https://us1.discourse-cdn.com/flex016/uploads/codecombat/original/3X/f/0/f041d738c5a5d5559281f9bbb715d5a6346e130f.jpeg );
+  display: flex;
+  background-color: cadetblue;
+}
+form{
+  display: flex;
+  flex-direction: column;
+ 
+  right: 40vw;
+  top: 25vh;
+  position: absolute;
+  border:  solid blue;
+  border-radius: 10px;
+  padding: 20px;
+}
+form:hover{
+  box-shadow: 5px 10px 15px 0px rgba(0,0,0,0.4);
+}
